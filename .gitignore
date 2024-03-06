@@ -1,0 +1,16 @@
+.env
+
+node_modules/
+
+postgres/
+
+mongo/
+
+coverage/
+
+build/
+
+dist/
+
+*.log
+
